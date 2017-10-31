@@ -1,0 +1,27 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<item android:drawable="@drawable/circle_24dp"/>-->
+    <!--<item-->
+        <!--android:left="2.66dp"-->
+        <!--android:top="2.66dp"-->
+        <!--android:bottom="2.66dp"-->
+        <!--android:right="2.66dp">-->
+        <!--<shape>-->
+            <!--<solid android:color="#00ff00" />-->
+            <!--&lt;!&ndash; 描边 &ndash;&gt;-->
+            <!--<stroke-->
+                <!--android:width="1dp"-->
+                <!--android:color="#000000" />-->
+        <!--</shape>-->
+    <!--</item>-->
+
+    <!--<item android:drawable="@drawable/circle_24dp"/>-->
+    <!--<item-->
+        <!--android:gravity="center"-->
+        <!--android:width="48dp"-->
+        <!--android:height="48dp"-->
+        <!--android:drawable="@color/colorAccent"/>-->
+
+    <!--<item android:drawable="@color/colorAccent"/>-->
+    <!--<item android:gravity="center" android:drawable="@drawable/circle_24dp"/>-->
+
+</layer-list>
